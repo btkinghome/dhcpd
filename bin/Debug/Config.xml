@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <pingwatch>
+    <srcmac>00-0C-29-B7-92-89</srcmac>
+    <dstmac>FF-FF-FF-FF-FF-FF</dstmac>
+    <mode>2</mode>
+    <hostname>www.baidu.com</hostname>
+    <srcip>0.0.0.0</srcip>
+    <dstip>255.255.255.255</dstip>
+    <counter>1000</counter>
+    <sum>10000</sum>
+  </pingwatch>
+</config>
